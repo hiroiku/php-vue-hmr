@@ -14,7 +14,7 @@
         "url": "git+https://github.com/hiroiku/php-vue-hmr.git"
     },
     "dependencies": {
-        "axios": "^0.18.0",
+        "axios": "^0.21.1",
         "codemirror": "^5.36.0",
         "vue": "^2.5.16",
         "vue-codemirror": "^4.0.4",
